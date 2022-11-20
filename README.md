@@ -18,4 +18,4 @@
 
 ![](./src/assets/images/pagination.jpg)
 
-### [Pagination ES6](https://alisson-aguiars2k.github.io/pagination-react-js/) 🔗
+### [Pagination React-js](https://alisson-aguiars2k.github.io/pagination-react-js/) 🔗
