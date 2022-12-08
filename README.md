@@ -1,11 +1,10 @@
 ## Pagination !  👨‍🦱 👨‍🦰 👩
-<br>
 
-## Projeto 🥰
+### [Pagination React-js](https://alisson-aguiars2k.github.io/pagination-react-js/) 🔗
 
 ![](./src/assets/images/pagination.jpg)
 
-### [Pagination React-js](https://alisson-aguiars2k.github.io/pagination-react-js/) 🔗
+
 
 ## Tecnologias que utilizei para o projeto ;  
 <div style="display: inline_block"><br>
